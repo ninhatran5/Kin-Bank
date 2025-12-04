@@ -1,6 +1,6 @@
-# hưỡng dẫn cấu trúc của trương trình, các yêu cầu để phát triển,các chức năng và giải thích 
-# Bank-Account-Management-Sytem
-Hệ thống quản lý tài khoản ngân hàng 
+# hưỡng dẫn cấu trúc của trương trình, các yêu cầu để phát triển,các chức năng 
+# Kin Bank  (Bank-Account-Management-Sytem)
+Hệ thống quản lý tài khoản ngân hàng Kin Bank 
 - xây dựng 1 chương trình quản lý tài khoản ngân hàng với nội dung yêu cầu như sau 
 
 # yêu cầu 1 chương trình bao gồm như sau 
