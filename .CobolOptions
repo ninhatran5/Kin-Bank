@@ -1,0 +1,26 @@
+
+[Apdesigner Version Information]
+Version No=6.0
+
+
+[CobolProject]
+Edition=4.000
+
+
+[CobolCompilerOptions]
+TAB=TAB(4)
+SRF=SRF(VAR,VAR)
+MAIN=MAIN(WINMAIN)
+D-CHECK=CHECK(ALL)
+ForceCheckAllInDebugMode=true
+
+[TargetOptions]
+TargetName=KinBank
+TargetType=EXE
+BuildMode=Debug
+DLLUseCBR=false
+
+[DependencyViewSourceFiles]
+CobolSourceFileCount=1
+CobolSourceFile1=KinBank.cob
+MainFile=KinBank/KinBank.cob
